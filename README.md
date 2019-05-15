@@ -14,7 +14,7 @@ In CSS, I put the specifications indicated in the instructions.
 I add text-align: center; in the body.
 
 I form the 3 similar boxes (header, nav, footer) by applying the same properties:
-```
+```css
 #header p, #nav p, #footer p {
   height: 100px;
   margin: 10px 0;
@@ -22,7 +22,7 @@ I form the 3 similar boxes (header, nav, footer) by applying the same properties
 ```
 
 I put my `#aside` on the right with float property:
-```
+```css
 #aside p {
   height: 300px;
   float: right;
@@ -32,7 +32,7 @@ I put my `#aside` on the right with float property:
 ```
 
 I apply a clear property to `#footer` to place it under the floating element:
-```
+```css
 #footer {
   clear: both;
 }
