@@ -1,5 +1,5 @@
 # HW-Wireframe
-# Wireframe
+![Site Screenshot](assets/screenshot.png)
 
 Wireframe is the first excercice from UC Berkeley coding Boot Camp.
 That aims to use HTML and CSS.
@@ -8,32 +8,20 @@ That aims to use HTML and CSS.
 Open index.html in your browser.
 
 ## excercice resolution Steps 
-I divide my HTML in differentes sections. I use for that, the selector id. 
-I complete them by adding the content `<p>`. 
-In CSS, I put the specifications indicated in the instructions.
-I add text-align: center; in the body.
 
-I form the 3 similar boxes (header, nav, footer) by applying the same properties:
-```css
-#header p, #nav p, #footer p {
-  height: 100px;
-  margin: 10px 0;
-}
-```
+Build of a web design skeleton:
+-use semantic tags (header, nav, section, aside, article and footer).
+-Use the property `float` and `clear` in the css. 
 
-I put my `#aside` on the right with float property:
-```css
-#aside p {
-  height: 300px;
-  float: right;
-  width: 445px;
-  margin: 10px 0;
-}
-```
+ ## technologies Used
 
-I apply a clear property to `#footer` to place it under the floating element:
-```css
-#footer {
-  clear: both;
-}
-```
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+## Author
+
+Victoire Baron 
+
+
+
+
