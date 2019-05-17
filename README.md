@@ -9,9 +9,9 @@ Open index.html in your browser.
 
 ## excercice resolution Steps 
 
-Build of a web design skeleton:
--use semantic tags (header, nav, section, aside, article and footer).
--Use the property `float` and `clear` in the css. 
+Build a web design skeleton:
+* use semantic tags (header, nav, section, aside, article and footer).
+* Use the property `float` and `clear` in the css. 
 
  ## technologies Used
 
